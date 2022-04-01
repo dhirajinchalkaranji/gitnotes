@@ -723,9 +723,11 @@ button {
     margin-right: auto;
   }
 
-  .home__container {
-    /* column-gap: 1rem; */
-  }
+  /* .home__container {
+    /* column-gap: 1rem;
+  } */
+
+  
   .home__img {
     width: 500px;
   }
