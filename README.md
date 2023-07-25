@@ -1,3 +1,3 @@
-# This is GIT College notes app. 
+# This is GIT College notes app.
 
-## ¶ live link :- [github](https://gitnotes.in/index.html)
+## ¶ live link :- [gitnotes](https://gitnotes.netlify.app/)
